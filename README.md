@@ -71,4 +71,5 @@ I am a **Senior Software Engineer** with 7+ years of experience in **backend sys
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhinav-dubey-6b9491142/)
 - 👨‍💻 [GitHub](https://github.com/abhinavdubey8989)
 - 📚 [Medium](https://medium.com/@abhinavdubey8989)
+- 🎓 [Resume](https://www.notion.so/Abhinav-s-Resume-fd5e99b9317d83cd8869016f1bf7b57e)
 - 📧 [Email](https://mail.google.com/mail/?view=cm&fs=1&to=abhinavdubey8989@gmail.com)
